@@ -1,2 +1,4 @@
 Nama  : M. Daffadeo Pangestu Arya Mustafa
 NIM   : 20101029
+Matakuliah  : Cloud Computing
+Jam   : 19.50 - 22.20
